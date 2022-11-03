@@ -1,5 +1,5 @@
 - 👋 Hi, I’m praveen 
-- 👀 I’m interested in learn code
+- 👀 I’m interested to learn code
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on compitative coding
 - 📫 can email me on preysentg@ ...
